@@ -14,7 +14,7 @@ The publications and corresponding codes based on the thesis are following:
 
 **3. Chapter 5:** Regularization parameter evaluation for PAT **(based on error estimate).** [PDF](http://cds.iisc.ac.in/faculty/phani/Bhatt_JBO_2016b.pdf)
 
-     Corresponding codes are zipped in the file :[E](https://sites.google.com/site/sercmig/goog_38096660)rror estimate.rar
+     Corresponding codes are zipped in the file :Error estimate.rar
 
 The open source matlab toolbox utilized are available for download- ([NIRFAST](http://www.dartmouth.edu/~nir/nirfast/) and [Monte carlo](https://in.mathworks.com/matlabcentral/fileexchange/8754-monte-carlo-simulation-for-photon-migration-inside-biological-tissue) for chapter-3, and [k-wave](http://www.k-wave.org/) for chapters-4, 5).
 
